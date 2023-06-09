@@ -1,4 +1,4 @@
-# ojb: bitcoin ordinals jobs protocol
+# ojb: ordinals jobs protocol
 
 Time > money.
 
